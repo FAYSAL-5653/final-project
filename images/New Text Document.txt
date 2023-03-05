@@ -1,0 +1,9 @@
+top-bar #f5f7fa
+btn-bg #f5f7fa
+h1-clolor #506a85
+p-color #92a2b2
+section-3 bg #f2f5f7
+
+f-1bg #f2f5f7
+f-2bg #283645
+input-bg#4e5c6c
